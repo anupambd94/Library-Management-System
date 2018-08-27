@@ -1,0 +1,34 @@
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Form1.resources
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Properties.Resources.resources
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.csproj.GenerateResource.Cache
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.exe
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.pdb
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Home.resources
+c:\users\star boy\documents\visual studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Student.resources
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.csprojResolveAssemblyReference.cache
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Book.resources
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Sbook.resources
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Bbook.resources
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Rbook.resources
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Final.resources
+C:\Users\STAR BOY\Documents\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Start.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.exe
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.pdb
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.csprojResolveAssemblyReference.cache
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Bbook.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Book.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Final.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Form1.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Home.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Rbook.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Sbook.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Start.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.Student.resources
+C:\Users\Nakib\Desktop\Visual Studio 2010\Projects\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.csproj.GenerateResource.Cache
+C:\Users\Anupam\Desktop\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.exe
+C:\Users\Anupam\Desktop\LibraryProject\LibraryProject\obj\x86\Debug\LibraryProject.pdb
